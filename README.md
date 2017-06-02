@@ -3,7 +3,7 @@ contracts, following on from [community](https://www.reddit.com/r/ethereum/comme
 
 ## Available models:
 
-* [ProportionalAllocationToken.sol](tree/master/contracts/ProportionalAllocationToken.sol)
+* [ProportionalAllocationToken.sol](contracts/ProportionalAllocationToken.sol)
   * Fixed duration sale with specific start and end blocks.
   * Fixed amount of ETH that *must* be raised in order sale to be successful.
   * Tokens allocated proportionately to each sender according to amount of
