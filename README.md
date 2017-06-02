@@ -12,9 +12,9 @@ ETH contributed as a fraction of the total amount of ETH contributed by all send
 returned to them.
   * Senders must make two transactions - one to contribute ETH, and one to claim
 tokens and/or refund once the sale is complete.
-  * Good points:
+  * _Good_:
     * No network congestion because no rush to invest.
     * All senders get a chance to invest.
     * Fixed/predictable tokens-per-ETH price.
-  * Bad points:
+  * _Bad_:
     * Whales can still virtually "squash" out smaller investors by massively outspending them ([read discussion](https://www.reddit.com/r/ethereum/comments/6emfdu/erc_fairer_token_crowdsale_with_proportional/dibjwhf/)).
